@@ -1,0 +1,7 @@
+{
+    "eng_srv": "http://ott-cdn.ucom.am/s83/03.m3u8",
+    "arb_srv": "https://de623a8b9bacb203.mediapackage.ap-southeast-1.amazonaws.com/out/v1/53d302267cd64627b5cbea771338f857/index.m3u8",
+    "frn_srv": "http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8",
+    "por_srv": "http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "spa_srv": "http://31.220.41.87:8081/live/es-cuatro.stream/playlist.m3u8"
+}
